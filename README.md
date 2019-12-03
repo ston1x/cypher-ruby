@@ -1,5 +1,7 @@
 cypher-ruby is just like the [cypher](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/cypher.zsh-theme) zsh theme but with ruby version in your prompt.
 
+![](screenshot.png)
+
 ## Why use cypher?
 - It does not show git branch in your prompt, hence performance of prompt re-appearing is much faster, closer to plain zsh or bash.
 
