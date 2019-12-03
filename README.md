@@ -5,7 +5,7 @@ cypher-ruby is just like the [cypher](https://github.com/ohmyzsh/ohmyzsh/blob/ma
 ## Why use cypher?
 - It does not show git branch in your prompt, hence performance of prompt re-appearing is much faster, closer to plain zsh or bash.
 
-## Why user cypher-ruby?
+## Why use cypher-ruby?
 - If you're a rubyist and you often get caught into a wrong ruby version trap, then displaying the version right in your prompt is a good choice.
 
 ## Usage
