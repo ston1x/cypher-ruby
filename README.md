@@ -8,5 +8,6 @@ cypher-ruby is just like the [cypher](https://github.com/ohmyzsh/ohmyzsh/blob/ma
 
 ## Usage
 `git clone https://github.com/ston1x/cypher-ruby.git $ZSH_CUSTOM/themes/cypher-ruby`
-ln $ZSH_CUSTOM/themes/cypher-ruby/cypher-ruby.zsh-theme $ZSH_CUSTOM/themes/cypher-ruby.zsh-theme
-Add ZSH_THEME="cypher-ruby" to your .zshrc
+
+`ln $ZSH_CUSTOM/themes/cypher-ruby/cypher-ruby.zsh-theme $ZSH_CUSTOM/themes/cypher-ruby.zsh-theme`
+Add `ZSH_THEME="cypher-ruby"` to your .zshrc
