@@ -14,3 +14,6 @@ cypher-ruby is just like the [cypher](https://github.com/ohmyzsh/ohmyzsh/blob/ma
 `ln $ZSH_CUSTOM/themes/cypher-ruby/cypher-ruby.zsh-theme $ZSH_CUSTOM/themes/cypher-ruby.zsh-theme`
 
 Add `ZSH_THEME="cypher-ruby"` to your .zshrc
+
+## This theme on [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins/)
+This theme [was published](https://github.com/unixorn/awesome-zsh-plugins/pull/844/commits/4783af03600f7973e5c2b50fbedd150de3b476cb) on awesome-zsh-plugins
